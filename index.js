@@ -2,7 +2,9 @@ const postID = "POST ID"; // Put here the Reddit Post's ID
 const startTS = 1695574500; // Put here the Unix Timecode correspondent to the start of your reddit thread.
 const endTS = 1695592800; // Put here the Unix Timecode correspondent to the end of your reddit thread.
 
-
+const clientId = ""; // Put here your Reddit API's Client ID
+const clientSecret = ""; // Put here your Reddit API's Client Secret
+const refreshToken = ""; // Put here your Reddit API's Refresh Token
 
 
 // Requirements
